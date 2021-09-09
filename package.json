@@ -1,0 +1,23 @@
+{
+  "name": "s5-ts-parcial1v2",
+  "version": "1.0.0",
+  "description": "Parcial1 TS con nuevo formato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartinez05/S5-TS-Parcial1V2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartinez05/S5-TS-Parcial1V2/issues"
+  },
+  "homepage": "https://github.com/smartinez05/S5-TS-Parcial1V2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
