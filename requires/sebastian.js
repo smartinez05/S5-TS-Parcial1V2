@@ -1,5 +1,6 @@
 const express = require('express');
-const app = express();
+const app = express.Router();
+/* const router = express.Router(); */
 
 /* No se utiliza body-parser ya que la libreria se integró con Express desde la versión 4 segun la documentación oficial,
 ref: https://stackoverflow.com/questions/66525078/bodyparser-is-deprecated.
@@ -78,3 +79,4 @@ app.post("/formsebas", function (req, res, next) {
 	);
 });
 
+module.exports = app;
