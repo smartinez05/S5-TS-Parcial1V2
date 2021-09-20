@@ -5,3 +5,13 @@ console.log(edades);
 console.log(electrodomesticos);
 console.log(estatura);
 console.log(letras);
+
+
+
+
+
+
+
+
+
+
