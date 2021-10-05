@@ -1,8 +1,8 @@
 //export {suma,resta,multiplicacion,division};
 
 //Variables globales 
-var numero1:number = 5;
-var numero2:number = 8;
+/*var numero1:number = 5;
+var numero2:number = 8;*/
 
 //Función de suma
 export function suma(numero1:number,numero2:number):number{
