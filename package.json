@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/smartinez05/S5-TS-Parcial1V2#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "jshint": "^2.13.1"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "jshint": "^2.13.6"
   },
   "devDependencies": {}
 }
